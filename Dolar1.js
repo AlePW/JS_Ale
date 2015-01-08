@@ -1,6 +1,7 @@
 var titulo = 'Calculo costos a Dolar Tarjeta'
-frase = titulo.toUpperCase()
+titulo = titulo.toUpperCase()
 console.log(titulo)
+document.writeln(titulo)
 
 
 
