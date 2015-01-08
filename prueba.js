@@ -1,5 +1,7 @@
-var frase = 'hola que tal?'
-console.log(frase)
-frase.toUpperCase()
+var titulo = 'Calculo costos a Dolar Tarjeta'
+frase = titulo.toUpperCase()
+console.log(titulo)
+
+
 
 
